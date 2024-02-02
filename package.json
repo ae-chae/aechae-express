@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ae-chae/aechae-express/issues"
   },
-  "homepage": "https://github.com/ae-chae/aechae-express#readme"
+  "homepage": "https://github.com/ae-chae/aechae-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
